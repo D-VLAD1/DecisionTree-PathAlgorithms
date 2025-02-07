@@ -1,6 +1,6 @@
 # DecisionTree-PathAlgorithms
 
-That project is composed of the Bellman-Ford algorithm and the Decision Tree Classifier.
+That project is composed of the Bellman-Ford algorithm and the Decision Tree Classifier, and Kruskal’s algorithm.
 
 ## The Bellman-Ford Algorithm
 
@@ -20,3 +20,9 @@ we've learned within the Discrete Math course. We create a tree that has some co
 pass the input data, it goes through the nodes, and then get the decision!
 
 Implemented by `Vladyslav Danylyshyn`.
+
+## The Kruskal Algorithm
+
+Kruskal’s algorithm finds the Minimum Spanning Tree (MST) of a weighted graph. It works by sorting edges in ascending order of weight and adding them one by one while ensuring no cycles are formed.
+
+Implemented by `Anastasiia Yablunovska`.
